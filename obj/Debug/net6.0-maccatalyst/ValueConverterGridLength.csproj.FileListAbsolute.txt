@@ -1,0 +1,16 @@
+C:\Users\Matthew\source\repos\ValueConverterGridLength\ValueConverterGridLength\obj\Debug\net6.0-maccatalyst\actool\_PartialAppManifest.items
+C:\Users\Matthew\source\repos\ValueConverterGridLength\ValueConverterGridLength\obj\Debug\net6.0-maccatalyst\actool\_BundleResourceWithLogicalName.items
+C:\Users\Matthew\source\repos\ValueConverterGridLength\ValueConverterGridLength\obj\Debug\net6.0-maccatalyst\actool\_ProcessedImageAssetsPath.items
+C:\Users\Matthew\source\repos\ValueConverterGridLength\ValueConverterGridLength\obj\Debug\net6.0-maccatalyst\coremlc\_PartialAppManifest.items
+C:\Users\Matthew\source\repos\ValueConverterGridLength\ValueConverterGridLength\obj\Debug\net6.0-maccatalyst\coremlc\_BundleResourceWithLogicalName.items
+C:\Users\Matthew\source\repos\ValueConverterGridLength\ValueConverterGridLength\obj\Debug\net6.0-maccatalyst\coremlc\_ProcessedCoreMLModelsPath.items
+C:\Users\Matthew\source\repos\ValueConverterGridLength\ValueConverterGridLength\obj\Debug\net6.0-maccatalyst\_ProcessedBundleResourcesPath.items
+C:\Users\Matthew\source\repos\ValueConverterGridLength\ValueConverterGridLength\obj\Debug\net6.0-maccatalyst\_ProcessedContentPath.items
+C:\Users\Matthew\source\repos\ValueConverterGridLength\ValueConverterGridLength\obj\Debug\net6.0-maccatalyst\ValueConverterGridLength.csproj.AssemblyReference.cache
+C:\Users\Matthew\source\repos\ValueConverterGridLength\ValueConverterGridLength\obj\Debug\net6.0-maccatalyst\ValueConverterGridLength.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Matthew\source\repos\ValueConverterGridLength\ValueConverterGridLength\obj\Debug\net6.0-maccatalyst\ValueConverterGridLength.AssemblyInfoInputs.cache
+C:\Users\Matthew\source\repos\ValueConverterGridLength\ValueConverterGridLength\obj\Debug\net6.0-maccatalyst\ValueConverterGridLength.AssemblyInfo.cs
+C:\Users\Matthew\source\repos\ValueConverterGridLength\ValueConverterGridLength\obj\Debug\net6.0-maccatalyst\ValueConverterGridLength.csproj.CoreCompileInputs.cache
+C:\Users\Matthew\source\repos\ValueConverterGridLength\ValueConverterGridLength\obj\Debug\net6.0-maccatalyst\ValueConverterGridLength.dll
+C:\Users\Matthew\source\repos\ValueConverterGridLength\ValueConverterGridLength\obj\Debug\net6.0-maccatalyst\refint\ValueConverterGridLength.dll
+C:\Users\Matthew\source\repos\ValueConverterGridLength\ValueConverterGridLength\obj\Debug\net6.0-maccatalyst\ValueConverterGridLength.pdb

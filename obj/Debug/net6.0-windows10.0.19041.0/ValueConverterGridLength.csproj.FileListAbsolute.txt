@@ -1,0 +1,8 @@
+C:\Users\Matthew\source\repos\ValueConverterGridLength\ValueConverterGridLength\obj\Debug\net6.0-windows10.0.19041.0\ValueConverterGridLength.csproj.AssemblyReference.cache
+C:\Users\Matthew\source\repos\ValueConverterGridLength\ValueConverterGridLength\obj\Debug\net6.0-windows10.0.19041.0\ValueConverterGridLength.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Matthew\source\repos\ValueConverterGridLength\ValueConverterGridLength\obj\Debug\net6.0-windows10.0.19041.0\ValueConverterGridLength.AssemblyInfoInputs.cache
+C:\Users\Matthew\source\repos\ValueConverterGridLength\ValueConverterGridLength\obj\Debug\net6.0-windows10.0.19041.0\ValueConverterGridLength.AssemblyInfo.cs
+C:\Users\Matthew\source\repos\ValueConverterGridLength\ValueConverterGridLength\obj\Debug\net6.0-windows10.0.19041.0\ValueConverterGridLength.csproj.CoreCompileInputs.cache
+C:\Users\Matthew\source\repos\ValueConverterGridLength\ValueConverterGridLength\obj\Debug\net6.0-windows10.0.19041.0\ValueConverterGridLength.dll
+C:\Users\Matthew\source\repos\ValueConverterGridLength\ValueConverterGridLength\obj\Debug\net6.0-windows10.0.19041.0\refint\ValueConverterGridLength.dll
+C:\Users\Matthew\source\repos\ValueConverterGridLength\ValueConverterGridLength\obj\Debug\net6.0-windows10.0.19041.0\ValueConverterGridLength.pdb
